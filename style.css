@@ -1,8 +1,13 @@
   .cabecalho{
     background-color: black;
-    color:hotpink;
+    color:lightskyblue;
    text-align:center;
    margin: 0 automatico;
    max-width: 800px;
-   
+  }
+
+  .pricipal{
+    background-color: hotpink;
+    color:black;
+
   }
